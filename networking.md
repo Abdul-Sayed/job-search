@@ -1,6 +1,6 @@
 Don't apply online - people get people jobs!
 
-For dev related leads seek relevant:
+For dev related leads seek individuals who work at companies you’d like to work for, or who hold job titles you’d like to have:
 1) who you know
 2) who they know
 3) who you meet
@@ -50,7 +50,7 @@ Template for people online you don't know;
 
     I’m currently a software engineer early in my career and have been thinking about how to increase my rate of learning to eventually become a tech lead like you.
 
-    Would you be willing to chat on the phone for 30 min or grab coffee? I’d love to run some specific questions by you.
+    Would you be willing to chat on the phone for 20 min or grab coffee? I’d love to run some specific questions by you.
 
     Thank you!
 
@@ -80,3 +80,14 @@ Also
     Would you mind taking a look at my resume and sharing your first impressions? Do you have time for me to buy you coffee and learn more about what you do at (Company X)?
     Can we grab lunch and talk about advice you have for someone entering this field?
     I noticed that your company has an opening for a [target job title]. What do you think is the best way for me to demonstrate my interest?
+
+
+Finding leads
+
+Use interesting job postings you find online as “leads” to find developers/hiring professionals who work at these companies. Go through at least 150 postings
+
+LinkedIn, StackoverflowCareers, Indeed, etc 
+
+Then, on LinkedIn, lookup 1 engineer and 1 recruiter and send them emails
+
+https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses/?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST
