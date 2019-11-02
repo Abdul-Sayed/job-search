@@ -67,6 +67,15 @@ Then ask them 3 specific, researched questions
     Is there a practice or habit that has helped you become more effective at your work, and that you wished you had started doing earlier in your career?
 
 
+The email is friendly in nature
+Your message is custom to the recipient (it’s not a copy and paste template)
+You clearly state who you are
+The email clarifies why you’re reaching out
+You display interest in their industry, job, project, or company (no need to go overboard, but give a solid reason why you’re interested)
+There is a specific ask (phone call or meeting in-person)
+You thank them (be appreciative of them taking the time to read your message!)
+
+
 Ask a developer to review your resume;
     “How would you react to [someone] claiming to have these traits?”
     “Is there anything on this you don’t believe or that makes you pause?”
