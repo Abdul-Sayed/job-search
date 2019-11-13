@@ -13,7 +13,8 @@ Junior Devs can start as interns for $55k, then after 3 months work for $65k/yr 
 
 Or just start at $27.5/hr as an intern, then work at $85k/yr when your hired as a junior dev
 
-Do salary research on payscale, salary.com, glassdoor beforehand
+Do salary research on payscale, salary.com, glassdoor , ONet, CareerOneStop, BLSbeforehand
+
 
 If you are asked for your salary expectations over email, in most cases it is best practice to kindly ask the employer if they have a few minutes to speak on the phone about compensation. 
 
