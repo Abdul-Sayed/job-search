@@ -2,7 +2,7 @@ As for finding companies that invest in junior engineers, definitely read everyt
 
 
 Expectations:
-  * What are your expectations of junior engineers?
+  * What are your expectations of junior engineers?  
   * What does your engineering ladder look like?
   * What are the requirements for advancing up the ladder and specifically the next level for me? How will those criteria be evaluated?
   * How will I know if I'm succeeding or not? 
