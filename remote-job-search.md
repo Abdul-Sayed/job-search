@@ -9,4 +9,4 @@ Google the company, find their number and call
 
 
 
-"Hey, so this is probaby not the right number to call. I tried to call the desk but it was busy. Basically I was trying to apply to a job there and the website 
+"Hey, so this is probaby not the right number to call. I tried to call the desk but it was busy. Basically I was trying to apply to a job there and the website wont work. And I know its not your specialty but I was wondering if there was an email so I can email somebody or anything like that. It takes me to the recruiting site and when I click apply it just gives me a 401 error, so.. not sure what to do. Would you like to know the position I'm trying to apply for? __  ___  get email ___, Should I tell him that you sent me ?
